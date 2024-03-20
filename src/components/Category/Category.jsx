@@ -59,7 +59,6 @@ const Category = () => {
                     className="w-[250px] md:[300px] absolute top-4 right-0 md:top-auto md:right-auto"/>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
